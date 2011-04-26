@@ -1,0 +1,60 @@
+########################################################################
+# This file is released under the Creative Commons Attribution-Share 
+# Alike 3.0 License
+#
+# All enclosed files are copyright (C) 2011 Mike Jones & FlashGen.Com, 
+# unless otherwise indicated.
+#
+# You can redistribute it and/or modify it under the terms of the 
+# CREATIVE COMMONS ATTRIBUTION-SHARE ALIKE 3.0 License as published by 
+# the Creative Commons.
+#
+# This program is distributed in the hope that it will be useful, but 
+# WITHOUT ANY WARRANTY; without even the implied warranty of 
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+#
+# See the Creative Commons Attribution-Share Alike 3.0 License for 
+# more details.
+#
+# For any queries not directly related to the CREATIVE COMMONS 
+# ATTRIBUTION-SHARE ALIKE 3.0 LICENSE please use the following methods 
+# of contact:
+#
+# web: http://blog.flashgen.com
+# email: fgdevelopment@flashgen.com
+#
+########################################################################
+
+Thanks for downloading this code. I hope it will be useful for you. Before 
+you open the file please take the time to read this document-  it isn't 
+that long but does contain valuable information.
+
+Directory Structure
+-------------------
+The repository is broken down in to three sections:
+
+src - This contains the source code
+bin - A binary SWC file that contains the compiled code in the src folder
+docs - Any supporting documents / API information
+
+Files
+-------------------
+Within the src folder are a set of nested folders (packages) for the 
+ActionScript classes used by the controls. There is also a Flash 
+Professional file called VirtualControllers.fla in the root of the src 
+folder. This FLA will only open in Flash Professional CS5 or newer.
+
+To compile and test the controls, open VirtualControllers.fla in Flash 
+Professional and test the movie. This FLA contains a simple example that 
+hooks the thumb stick up to a text field to display the output (position) 
+of the controller.
+
+Warranty
+--------------------
+As the Creative Commons license above indicates. This code is provided 'as is' 
+and without warranty. Use it at your own risk.
+
+That said, if you do have a question please feel free to drop me an email 
+at: fgdevelopment@flashgen.com
+
+
